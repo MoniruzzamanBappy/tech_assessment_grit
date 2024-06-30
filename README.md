@@ -18,6 +18,6 @@ pnpm dev
 bun dev
 ```
 
-#### Codesandbox link :
+#### Codesandbox link : https://codesandbox.io/p/github/MoniruzzamanBappy/tech_assessment_grit/main?import=true
 
-#### Github link :
+#### Github link : https://github.com/MoniruzzamanBappy/tech_assessment_grit
